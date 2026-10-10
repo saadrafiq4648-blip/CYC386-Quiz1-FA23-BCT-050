@@ -1,0 +1,4 @@
+Three best practices 
+-input validation
+-least privilege
+-data encryption
